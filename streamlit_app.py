@@ -25,7 +25,7 @@ def main_page():
 def sidebar():
     """Display sidebar with hyperlinks"""
     with st.sidebar:
-        st.write("[M23Q1](https://saqmain-nhudrzq49q8wphrsi2j6gm.streamlit.app/)")
+        st.write("[M23Q1](https://huggingface.co/spaces/derrickchan223/saqtestdemo)")
         st.write("[M23Q2](https://www.yahoo.com)")
         st.write("[M23Q3](https://www.baidu.com)")
 
